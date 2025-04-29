@@ -1,0 +1,16 @@
+.Product_two_things{
+    margin-top: 10vh;
+    color: purple;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.Product_two_things h3{
+    margin-left: 10vh;
+}
+
+hr{
+    width: 50%;
+}

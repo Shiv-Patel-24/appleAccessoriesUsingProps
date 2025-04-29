@@ -1,9 +1,15 @@
 .Title{
+    width: 100%;
+    background-color: #fafafccc;
+}
+
+.TitleInside{
     background-color: #fafafccc;
     position: sticky;
     top: 0;
     margin-left: 10px;
     padding: 3px;
-    font-size: medium;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 200px;
+    font-size: x-small;
+    font-family: 'Arial Narrow', Arial, sans-serif;
 }
