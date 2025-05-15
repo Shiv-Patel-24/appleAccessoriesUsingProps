@@ -10,7 +10,7 @@ export default function Poster(prop) {
             src="C:\Users\pshiv\OneDrive\Pictures\Screenshots\Screenshot 2025-04-29 230921.png"
             alt=""
           />
-          <h1>{prop.title}</h1>
+          <h1 className="Poster">{prop.title}</h1>
           <h3>{prop.info}</h3>
           <button>
             {prop.button}&nbsp;&nbsp;<i class="fa-solid fa-chevron-right"></i>
@@ -25,7 +25,7 @@ export default function Poster(prop) {
       </div>
 
       <div className="after_poster">
-        <h1>Find the accessories you're looking for.</h1>
+        <h1 className="PosterSecond">Find the accessories you're looking for.</h1>
         <input type="text"  placeholder="Search accessories"/>
       </div>
       {/* <div class="navbar-nav ms-auto"> 

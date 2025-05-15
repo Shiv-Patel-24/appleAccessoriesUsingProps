@@ -1,0 +1,16 @@
+.ItemProduct_main{
+    background-color: lightcoral;
+    width: 20vh;
+    height: 20vh;
+    display: flex;
+    flex-direction: row;
+    border: 2px solid black;
+}
+
+.ItemProduct ul{
+    width: 5vh;
+    height: 5vh;
+    background-color: lightgreen;
+    display: flex;
+    flex-direction: row;
+}

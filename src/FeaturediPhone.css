@@ -1,0 +1,45 @@
+.FeaturedH1Tag h1{
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+.FeaturediPhone{
+    width: 75%;
+    height: 38rem;
+    background-color: white;
+    margin: 0px auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.FeaturedFirst{
+    width: 22rem;
+    height: 32rem;
+    background-color: rgb(242,242, 247);
+    border-radius: 1rem;
+}
+
+.FeaturedFirst img{
+    width: 20rem;
+    height: 20rem;
+    margin-top: 2rem;
+    margin-left: 1.2rem;
+}
+
+.FeaturedFirst h3{
+    width: 15rem;
+    text-align: center;
+    margin: 0px auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.FeaturedFirst h4{
+    text-align: center;
+    font-weight: 100;
+}
+
+.FeaturedH1Tag h3{
+    text-align: center;
+    margin-top: 0px;
+}

@@ -8,6 +8,9 @@ export default function Product(){
                 <h3>Browse by Category</h3>
             </div>
             <hr />
+            <br /><br /><br /><br />
+            <hr />
+            <br /><br /><br /><br />
         </>
     )
 }
