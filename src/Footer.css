@@ -1,0 +1,57 @@
+.Footer{
+    width: 100%;
+    background-color: rgb(242,242, 247);
+    height: auto; 
+    /* text-align: center;   */
+    padding-top: 2rem; 
+}
+
+.FooterSmallSize{
+    width: 62%;
+    margin: 0px auto;
+    /* text-align: center; */
+}
+
+.Para h5{
+    font-weight: 300;
+    color: rgb(142,142, 147);
+}
+
+.FooterSmallSize hr{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.AllList li{
+    list-style-type: none;
+    line-height: 1.4rem;
+    display: flex;
+    flex-direction: row;
+    color: rgb(142,142, 147);
+}
+
+.AllList{
+    /* height: 10rem;
+    width: 10rem; */
+    display: flex;
+    flex-direction: rows;
+}
+
+
+.FirstList{
+    width: 10rem;
+    margin: 1rem;   
+}
+
+.FirstList h4{
+    font-weight: 300;
+}
+
+.LastInfo{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+
