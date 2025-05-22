@@ -53,3 +53,9 @@ Start the server
   npm run dev
 ```
 
+![AppleAcces(1)](https://github.com/user-attachments/assets/a5d78e5a-cd2a-4f34-9ea7-c2fe0d20865b)
+![AppleAcces(2)](https://github.com/user-attachments/assets/1daad6f0-a8fa-4a4e-98c4-a0b39b2c9839)
+![AppleAcces(3)](https://github.com/user-attachments/assets/f0452d9d-828e-4151-90e5-8f3f3fc9b2f8)
+![AppleAcces(4)](https://github.com/user-attachments/assets/8054ecc7-3d42-465a-9b76-37c0e8a79c12)
+![AppleAcces(5)](https://github.com/user-attachments/assets/f74b7734-f388-43de-bd29-6b28b545ba19)
+
